@@ -1,4 +1,4 @@
 # NAMI-4.3.2018
 gcgfgxxnbcnbc
 
-Repozitáø byl založen kvùli ÒAMI.
+Repozitar byl zalozen kvuli NAMI.
